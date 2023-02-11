@@ -1,2 +1,3 @@
-# go-learning
- A Repository For my Go Learning
+# Go Learning
+
+My Learning Bin for Go
